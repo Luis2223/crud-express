@@ -1,0 +1,22 @@
+{
+  "name": "crud-express",
+  "version": "1.0.0",
+  "description": "Um pequeno tutorial mostrando como é possível com poucas linhas fazer um CRUD em uma API REST utilizando nodejs e express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luis2223/crud-express.git"
+  },
+  "author": "Luis Felipe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luis2223/crud-express/issues"
+  },
+  "homepage": "https://github.com/Luis2223/crud-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

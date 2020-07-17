@@ -12,9 +12,9 @@ Após a instalação do nodejs, vamos começar criando nossa pasta aonde será a
 
 Para isto abra o prompt de comando, navegue até o diretório e crie a pasta do projeto.
 
-> cd Desktop
-> mkdir crud-express
-> cd crud-express
+	cd Desktop
+	mkdir crud-express
+	cd crud-express
 
 Pronto, agora vamos utilizar o npm para iniciar nosso projeto.
 
@@ -108,9 +108,10 @@ O que estamos dizendo ali é que, (index). Faz parte de uma URL dinâmica e com 
 Ex.:
 
 > http://localhost:3333/2
-> body {
-> "name": "Luis Felipe"
-> }
+
+	body {
+	 "name": "Luis Felipe"
+	}
 
 ### Método DELETE
 
